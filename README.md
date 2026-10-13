@@ -2,7 +2,7 @@
 
 - I’m currently studying at ITMO University
 - I’m currently learning C language 
-- Known programming languages: Python ![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white), C ![C](https://img.shields.io/badge/C-DD0031?style=for-the-badge&logo=c&logoColor=white)
+- Known programming languages: ![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white), ![C](https://img.shields.io/badge/C-DD0031?style=for-the-badge&logo=c&logoColor=white)
 - Ask me about: anything, I'll gladly help
 - How to reach me: **alexandra.i1310@outlook.com**
 - Pronouns: _me/myself/i_
